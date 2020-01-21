@@ -1,0 +1,12 @@
+li {
+  list-style-image: url('../image/tinyM.png')
+}
+h1{
+  color: red;
+  font-style: bold;
+}
+h2{
+  color: blue;
+  font-style: bold;
+  text-shadow: 1px 1px 1px #808080
+}
